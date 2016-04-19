@@ -3,7 +3,7 @@ AntiForgery: enabled
 Author: Bhavin Doshi
 Website: https://github.com/bhavinbdoshi/Om.Orchard.SocialMetaTags
 Version: 1.9
-OrchardVersion: 1.9.2
+OrchardVersion: 1.9.3
 Description: Content part for Social Meta Tags (Open Graph Tags for Facebook/Google/Pinterest/Linkedin and Twitter Card Tags and Google Authorship).
 Features:
 	Om.Orchard.SocialMetaTags:
