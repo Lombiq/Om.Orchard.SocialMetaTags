@@ -12,7 +12,7 @@ using Orchard.UI.Notify;
 
 namespace Om.Orchard.SocialMetaTags.Controllers {
     [OrchardFeature("Om.Orchard.SocialMetaTags")]
-    [Themed, Admin]
+    [Themed, Admin, ValidateInput(false)]
     public class FacebookController : Controller {
 
         public IOrchardServices Services { get; set; }
